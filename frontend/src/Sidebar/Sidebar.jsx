@@ -10,19 +10,16 @@ const Sidebar = () => {
           <span className="sidebar-icon">
             <FaCog />
           </span>
-          <span className="sidebar-label">Settings</span>
         </li>
         <li className="sidebar-option">
           <span className="sidebar-icon">
             <FaPlus />
           </span>
-          <span className="sidebar-label">Add</span>
         </li>
         <li className="sidebar-option">
           <span className="sidebar-icon">
             <FaEdit />
           </span>
-          <span className="sidebar-label">Edit</span>
         </li>
       </ul>
     </aside>

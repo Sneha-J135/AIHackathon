@@ -1,0 +1,12 @@
+Create a react component using typescript as in the screenshot.
+It has four tabs overview, work, cost and division.
+The default page is the overview tab. The overview tab has s name display and add button.
+below that it has a slide bar to view the location and map details as in image.
+ 
+ 
+add sample location and map details as in the image provided. as add sample images in the image slide viewer
+ 
+ 
+Align the tabs as show in the given image.
+
+
