@@ -1,0 +1,70 @@
+1. create a color varibale in index.css called blue : #293fff, light blue : #010842 (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+2. create a color varibale in index.css called blue : #293fff, light blue : #010842 (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+3. create a layout dsign from figma image C:\Users\abhijith.g\Documents\AIHackathon\figma\Screenshot (13).png only need to create th ebasic layout according to th eimage. no content needed (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+4. add layout as the entry point of the app (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+5. remove maring and padding from body (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+6. the layout contains a sidebar, navbar and the main content, sidebar have 3 options - navbar have logo, searchbar and accounts option in flex and between (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+7. the sidebar should be look like this C:\Users\abhijith.g\Documents\AIHackathon\figma\image.png (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+8. chnage the center searchbar with a 10% white bg and placeholder as search with a icon and text inisde search bar should be visible (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+9. add a "zLink" as the navbar logo  (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+10. navbar account should be show some random accout name with a user pitcute in a circle like in modern ui (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+11. remove the white bg from user and compnay name (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+12. the searchbar width should be around 50% of the navbar size (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+13. side bar should be bg of white and the right side have border of 1 with a black 50% opacticy contains 3 menus -settings., add , edit icons from fontawsome in a darkblue color (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+14. also import fontawsome script file (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+15. remove cdn and add reacticons/fa (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+16. correct the pakage (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+17. side bar should be height of full and remove names from side bar only the logos have to seen (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+18. also add the width to only fits the icon and some padding (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+19. add the service request handler to the main section  (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+20. now the its shown below the side bar the ervice request handler should be shown in the top of main content and the side bar and navbar should be fixed on side and top (See <attachments> above for file contents. You may not to search or read the file again.)
+
+21. the layout should be see as figma/Screenshot (13).png the servicereq handler should be between navbar and sidebar (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+22. now the its shown below the side bar the servuice req handler should be shown in the top of main content and the side bar and navbar should be fixed on side and top (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+23. the side bar should be height of full and remove names from side bar only the logos have to seen (duplicate)
+
+24. the side bar should have width to only fit the icon and some padding (duplicate)
+
+25. the position is not correct cant see the service req handler (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+26. adjust the side bar to show left side below of the navbar and the servuice req handler shows right sidede of the sidebar (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+27. the position is not correct cant see the service req handler (duplicate)
+
+28. the layout should be see as figma/Screenshot (13).png the servicereq handler should be between navbar and sidebar (duplicate)
+
+29. give me the all prompts i give as a text file (See <attachments> above for file contents. You may not need to search or read the file again.)
+
+Create a react component using typescript as in the screenshot.
+It has four tabs overview, work, cost and division.
+The default page is the overview tab. The overview tab has s name display and add button.
+below that it has a slide bar to view the location and map details as in image.
+ 
+ 
+add sample location and map details as in the image provided. as add sample images in the image slide viewer
+ 
+ 
+Align the tabs as show in the given image.
+
+
